@@ -4,13 +4,13 @@ const nextConfig = {
       remotePatterns: [
         {
           protocol: "https",
-          hostname: "api.imgflip.com",
+          hostname: "",
           port: "",
           pathname: "**",
         },
         {
           protocol: "https",
-          hostname: "i.imgflip.com",
+          hostname: "",
           port: "",
           pathname: "**",
         },
