@@ -14,7 +14,8 @@ const Portfolio = () => {
             height={150}
             className="rounded-full border-4 border-blue-400 shadow-lg"
           />
-          <h1 className="text-5xl font-extrabold text-blue-400 mt-4">Hi, I'm Ali Raza</h1>
+          <h1 className="text-5xl font-extrabold text-blue-400 mt-4">Hi, I&apos;m Ali Raza</h1>
+
           <p className="text-xl mt-4 text-gray-300">MERN Stack Developer</p>
         </div>
       </section>
